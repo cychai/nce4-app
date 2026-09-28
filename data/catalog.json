@@ -1,0 +1,356 @@
+{
+  "version": 2,
+  "key": "NCE4-US",
+  "name": "新概念英语第四册",
+  "accent": "美音",
+  "generatedAt": "2026-09-28",
+  "lineCount": 1376,
+  "resources": {
+    "lyrics": "https://cdn.jsdelivr.net/gh/magang0425/NCE@master/NCE4",
+    "audio": "https://cdn.jsdelivr.net/gh/tangx/New-Concept-English@main/%E6%96%B0%E6%A6%82%E5%BF%B5%E8%8B%B1%E8%AF%AD%E7%AC%AC4%E5%86%8C%E7%BE%8E%E9%9F%B3%EF%BC%88MP3%2BLRC%EF%BC%89/NCE4-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29",
+    "audioFallback": "https://nce.mleo.site/NCE4"
+  },
+  "attribution": {
+    "lyrics": "magang0425/NCE",
+    "audio": "tangx/New-Concept-English",
+    "delivery": "jsDelivr"
+  },
+  "units": [
+    {
+      "num": 1,
+      "title": "Finding Fossil Man",
+      "file": "01－Finding Fossil Man",
+      "lineCount": 17,
+      "audioFallbackFile": "01.Finding Fossil Man"
+    },
+    {
+      "num": 2,
+      "title": "Spare That Spider",
+      "file": "02－Spare That Spider",
+      "lineCount": 19,
+      "audioFallbackFile": "02.Spare That Spider"
+    },
+    {
+      "num": 3,
+      "title": "Matterhorn Man",
+      "file": "03－Matterhorn Man",
+      "lineCount": 24,
+      "audioFallbackFile": "03.Matterhorn Man"
+    },
+    {
+      "num": 4,
+      "title": "Seeing Hands",
+      "file": "04－Seeing Hands",
+      "lineCount": 19,
+      "audioFallbackFile": "04.Seeing Hands"
+    },
+    {
+      "num": 5,
+      "title": "Youth",
+      "file": "05－Youth",
+      "lineCount": 26,
+      "audioFallbackFile": "05.Youth"
+    },
+    {
+      "num": 6,
+      "title": "The Sporting Spirit",
+      "file": "06－The Sporting Spirit",
+      "lineCount": 13,
+      "audioFallbackFile": "06.The Sporting Spirit"
+    },
+    {
+      "num": 7,
+      "title": "Bats",
+      "file": "07－Bats",
+      "lineCount": 16,
+      "audioFallbackFile": "07.Bats"
+    },
+    {
+      "num": 8,
+      "title": "Trading Standards",
+      "file": "08－Trading Standards",
+      "lineCount": 17,
+      "audioFallbackFile": "08.Trading Standards"
+    },
+    {
+      "num": 9,
+      "title": "Royal Espionage",
+      "file": "09－Royal Espionage",
+      "lineCount": 20,
+      "audioFallbackFile": "09.Royal Espionage"
+    },
+    {
+      "num": 10,
+      "title": "Silicon Valley",
+      "file": "10－Silicon Valley",
+      "lineCount": 15,
+      "audioFallbackFile": "10.Silicon Valley"
+    },
+    {
+      "num": 11,
+      "title": "How to Grow Old",
+      "file": "11－How to Grow Old",
+      "lineCount": 29,
+      "audioFallbackFile": "11.How to Grow Old"
+    },
+    {
+      "num": 12,
+      "title": "Banks and Their Customers",
+      "file": "12－Banks and Their Customers",
+      "lineCount": 20,
+      "audioFallbackFile": "12.Banks and Their Customers"
+    },
+    {
+      "num": 13,
+      "title": "The Search for Oil",
+      "file": "13－The Search for Oil",
+      "lineCount": 19,
+      "audioFallbackFile": "13.The Search for Oil"
+    },
+    {
+      "num": 14,
+      "title": "The Butterfly Effect",
+      "file": "14－The Butterfly Effect",
+      "lineCount": 25,
+      "audioFallbackFile": "14.The Butterfly Effect"
+    },
+    {
+      "num": 15,
+      "title": "Secrecy in Industry",
+      "file": "15－Secrecy in Industry",
+      "lineCount": 20,
+      "audioFallbackFile": "15.Secrecy in Industry"
+    },
+    {
+      "num": 16,
+      "title": "The Modern City",
+      "file": "16－The Modern City",
+      "lineCount": 17,
+      "audioFallbackFile": "16.The Modern City"
+    },
+    {
+      "num": 17,
+      "title": "A Man-made Disease",
+      "file": "17－A Man-made Disease",
+      "lineCount": 22,
+      "audioFallbackFile": "17.A Man-made Disease"
+    },
+    {
+      "num": 18,
+      "title": "Porpoises",
+      "file": "18－Porpoises",
+      "lineCount": 26,
+      "audioFallbackFile": "18.Porpoises"
+    },
+    {
+      "num": 19,
+      "title": "The Stuff of Dreams",
+      "file": "19－The Stuff of Dreams",
+      "lineCount": 23,
+      "audioFallbackFile": "19.The Stuff of Dreams"
+    },
+    {
+      "num": 20,
+      "title": "Snake Poison",
+      "file": "20－Snake Poison",
+      "lineCount": 27,
+      "audioFallbackFile": "20.Snake Poison"
+    },
+    {
+      "num": 21,
+      "title": "William S. Hart and the Early Western Film",
+      "file": "21－William S. Hart and the Early Western Film",
+      "lineCount": 31,
+      "audioFallbackFile": "21.William S. Hart and the Early Western Film"
+    },
+    {
+      "num": 22,
+      "title": "Knowledge and Progress",
+      "file": "22－Knowledge and Progress",
+      "lineCount": 34,
+      "audioFallbackFile": "22.Knowledge and Progress"
+    },
+    {
+      "num": 23,
+      "title": "Bird Flight",
+      "file": "23－Bird Flight",
+      "lineCount": 35,
+      "audioFallbackFile": "23.Bird Flight"
+    },
+    {
+      "num": 24,
+      "title": "Beauty",
+      "file": "24－Beauty",
+      "lineCount": 30,
+      "audioFallbackFile": "24.Beauty"
+    },
+    {
+      "num": 25,
+      "title": "Non-Auditory Effects of Noise",
+      "file": "25－Non-Auditory Effects of Noise",
+      "lineCount": 41,
+      "audioFallbackFile": "25.Non-Auditory Effects of Noise"
+    },
+    {
+      "num": 26,
+      "title": "The Past Life of the Earth",
+      "file": "26－The Past Life of the Earth",
+      "lineCount": 36,
+      "audioFallbackFile": "26.The Past Life of the Earth"
+    },
+    {
+      "num": 27,
+      "title": "The vasa",
+      "file": "27－The vasa",
+      "lineCount": 35,
+      "audioFallbackFile": "27.The vasa"
+    },
+    {
+      "num": 28,
+      "title": "Patients and Doctors",
+      "file": "28－Patients and Doctors",
+      "lineCount": 33,
+      "audioFallbackFile": "28.Patients and Doctors"
+    },
+    {
+      "num": 29,
+      "title": "The Hovercraft",
+      "file": "29－The Hovercraft",
+      "lineCount": 24,
+      "audioFallbackFile": "29.The Hovercraft"
+    },
+    {
+      "num": 30,
+      "title": "Exploring the Sea-Floor",
+      "file": "30－Exploring the Sea-Floor",
+      "lineCount": 31,
+      "audioFallbackFile": "30.Exploring the Sea-Floor"
+    },
+    {
+      "num": 31,
+      "title": "The Sculptor Speaks",
+      "file": "31－The Sculptor Speaks",
+      "lineCount": 24,
+      "audioFallbackFile": "31.The Sculptor Speaks"
+    },
+    {
+      "num": 32,
+      "title": "Galileo Reborn",
+      "file": "32－Galileo Reborn",
+      "lineCount": 30,
+      "audioFallbackFile": "32.Galileo Reborn"
+    },
+    {
+      "num": 33,
+      "title": "Education",
+      "file": "33－Education",
+      "lineCount": 29,
+      "audioFallbackFile": "33.Education"
+    },
+    {
+      "num": 34,
+      "title": "Adolescence",
+      "file": "34－Adolescence",
+      "lineCount": 29,
+      "audioFallbackFile": "34.Adolescence"
+    },
+    {
+      "num": 35,
+      "title": "Space Odyssey",
+      "file": "35－Space Odyssey",
+      "lineCount": 28,
+      "audioFallbackFile": "35.Space Odyssey"
+    },
+    {
+      "num": 36,
+      "title": "The Cost of Government",
+      "file": "36－The Cost of Government",
+      "lineCount": 27,
+      "audioFallbackFile": "36.The Cost of Government"
+    },
+    {
+      "num": 37,
+      "title": "The Process of Ageing",
+      "file": "37－The Process of Ageing",
+      "lineCount": 35,
+      "audioFallbackFile": "37.The Process of Ageing"
+    },
+    {
+      "num": 38,
+      "title": "Water and the Traveller",
+      "file": "38－Water and the Traveller",
+      "lineCount": 29,
+      "audioFallbackFile": "38.Water and the Traveller"
+    },
+    {
+      "num": 39,
+      "title": "What Every Writer Wants",
+      "file": "39－What Every Writer Wants",
+      "lineCount": 35,
+      "audioFallbackFile": "39.What Every Writer Wants"
+    },
+    {
+      "num": 40,
+      "title": "Waves",
+      "file": "40－Waves",
+      "lineCount": 25,
+      "audioFallbackFile": "40.Waves"
+    },
+    {
+      "num": 41,
+      "title": "Training Elephants",
+      "file": "41－Training Elephants",
+      "lineCount": 38,
+      "audioFallbackFile": "41.Training Elephants"
+    },
+    {
+      "num": 42,
+      "title": "Recording an Earthquake",
+      "file": "42－Recording an Earthquake",
+      "lineCount": 49,
+      "audioFallbackFile": "42.Recording an Earthquake"
+    },
+    {
+      "num": 43,
+      "title": "Are There Strangers in Space",
+      "file": "43－Are There Strangers in Space",
+      "lineCount": 45,
+      "audioFallbackFile": "43.Are There Strangers in Space"
+    },
+    {
+      "num": 44,
+      "title": "Patterns of Culture",
+      "file": "44－Patterns of Culture",
+      "lineCount": 51,
+      "audioFallbackFile": "44.Patterns of Culture"
+    },
+    {
+      "num": 45,
+      "title": "Of Men and Galaxies",
+      "file": "45－Of Men and Galaxies",
+      "lineCount": 43,
+      "audioFallbackFile": "45.Of Men and Galaxies"
+    },
+    {
+      "num": 46,
+      "title": "Hobbies",
+      "file": "46－Hobbies",
+      "lineCount": 42,
+      "audioFallbackFile": "46.Hobbies"
+    },
+    {
+      "num": 47,
+      "title": "The Great Escape",
+      "file": "47－The Great Escape",
+      "lineCount": 45,
+      "audioFallbackFile": "47.The Great Escape"
+    },
+    {
+      "num": 48,
+      "title": "Planning a Share Portfolio",
+      "file": "48－Planning a Share Portfolio",
+      "lineCount": 28,
+      "audioFallbackFile": "48.Planning a Share Portfolio"
+    }
+  ]
+}
